@@ -1,1 +1,1 @@
-window.USAMA_PROFILE_IMAGE="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDA...";
+window.USAMA_PROFILE_IMAGE='https://avatars.githubusercontent.com/u/216301321?v=4';
