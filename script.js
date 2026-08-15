@@ -1,0 +1,1 @@
+const p=document.getElementById('profilePhoto');if(p&&window.USAMA_PROFILE_IMAGE)p.src=window.USAMA_PROFILE_IMAGE;
